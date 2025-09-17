@@ -5,6 +5,7 @@
 
 - 이 Project (Prototype)은 Linkshimcat의 작업 리포지트에 포함되어 있습니다.*
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/52a64b8b-bd60-419b-9c0a-849176bcbf50" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4cd91e98-674a-4efa-878e-00c4df135c2d" />
 [Recent UPDATE: 2025.9.15]
 [총 디자인 개발: 8월18~9-15 / 쉬는 날 빼고(6일 작업)]
